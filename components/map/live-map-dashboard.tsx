@@ -376,7 +376,7 @@ export function LiveMapDashboard() {
           markers={mapMarkers}
           filters={filters}
           showHeatmap={showHeatmap}
-          center={[40.7128, -74.006]}
+          center={[19.076, 72.8777]}
           zoom={12}
         />
 
